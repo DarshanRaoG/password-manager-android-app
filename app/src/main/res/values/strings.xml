@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Iron Vault</string>
+    <string name="about_string">Hey there! 🙋‍♂️ Thank you for using <b>Iron Vault</b>! I\'m <b>Darshan Rao Gadicherla</b>, creator of this app.
+        \n\nYou can: store passwords, copy them, \nedit, delete, and even import/export<b>*</b> all of your passwords as a text file!
+        \n\n<b>Iron Vault</b> allows you to have multiple accounts to login and store your passwords separately.
+
+        \n\nThere were several motivations 💪 behind creating this app, including the need for a fully secure platform to store passwords.
+        \n\nHowever, the primary reason was to challenge myself in Android app development and create an application that I would find satisfying to use.
+
+        \n\nDo checkout my GitHub for the rest of the stuff I have made.
+
+        \n\n<b>*</b> =<i> Import can only be done if you have exported the data before and saved the \"passwords.txt\" file in your local storage!
+            <b>Also do NOT clear data or cache of this app without atleast exporting the data! </b></i>😅
+        </string>
+</resources>
